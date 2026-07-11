@@ -149,7 +149,9 @@
       "yaml": "2.8.3"
     },
     "onlyBuiltDependencies": [
-      "sharp"
+      "sharp",
+      "prisma",
+    "@prisma/client"
     ]
   }
 }
